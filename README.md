@@ -2,24 +2,11 @@
 **Nexus Zenith** is a futuristic, sci-fi-inspired task management dashboard designed to look and feel like a high-tech Operating System. Built with a focus on Glassmorphism and "Mission Control" aesthetics, it transforms mundane to-do lists into critical tactical missions.
 
 
-# 🌌 Nexus Zenith | Ultimate OS
-
-![Uploading image.png…]()
-
+# 🌌 Nexus Zenith | task-management
 
 > **"System Optimization Sequence Initiated..."**
 
 **Nexus Zenith** is a futuristic, sci-fi-inspired task management dashboard designed to look and feel like a high-tech Operating System. Built with a focus on Glassmorphism and "Mission Control" aesthetics, it transforms mundane to-do lists into critical tactical missions.
-
----
-
-## 📸 Screenshots
-
-<!-- 
-TIP: Take a screenshot of your app, upload it to your repo, 
-and replace 'screenshot.png' with the actual file path. 
--->
-![Nexus Zenith Dashboard](screenshot.png)
 
 ---
 
